@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+19,Rhein-Neckar-Verkehr GmbH (rnv),http://www.rnv-online.de,Europe/Berlin,de,0621-465-4444,https://tickets.rnv-online.de
