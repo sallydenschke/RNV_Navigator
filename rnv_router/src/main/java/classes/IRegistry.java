@@ -14,6 +14,8 @@ public interface IRegistry {
 	
 	public Object getElement(int ID);
 	
+	// note: use case for Generics!
+	
 	// this Iterator should be a raw type as to allow Iterators
 	// for both stops and routes
 	@SuppressWarnings("rawtypes")
